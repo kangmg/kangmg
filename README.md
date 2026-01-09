@@ -1,5 +1,5 @@
 
-* 🧪 I'm an grad student majoring in chemistry.
+* 🧪 I'm an grad student majoring in energy technology.
 * 💻 I'm interested in theoretical and computational chemistry.
 * 📊 I'm also interested in Data analysis, as well as AI.
 * 🐣 I'm a novice in code development.
