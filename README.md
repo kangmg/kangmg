@@ -8,7 +8,7 @@
 * 📊 I'm also interested in Data analysis, as well as AI.
 * 🐣 I'm a novice in code development.
 * 🔎 I pursue a mile wide and an inch deep philosophy.
-* 📧 Please contact me via email. My email address is kangmg@korea.ac.kr.
+* 📧 Please contact me via email. My email address is kangmg@kentech.ac.kr.
 * 📃 CV: https://kangmg.github.io/CV/
 * 📁 Blog (Korean): https://kangmg.github.io/
 
